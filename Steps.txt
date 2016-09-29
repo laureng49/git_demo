@@ -1,0 +1,7 @@
+1. I used the link to go to github.
+2. I clicked on fork and then I went back to my github page and found 'demo_index'
+3. In my terminal I made a "get_demo" folder on my desktop and then used (git clone https://github.com/laureng49/git_demo.git) to create a local copy
+4. I added some text in the html
+5. I saved it and then commited it ( git commit -m "I added some text") then I got a message saying "On branch master
+Your branch is up-to-date with 'origin/master'""
+6. Then I sent a pull request ("git pull origin master")
